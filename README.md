@@ -6,13 +6,9 @@
 
 - 🌱 I’m currently learning **Node.js, React, Express, MongoDB**
 
-- 🤝 I’m looking for help with [Decycle](https://decycle-app.herokuapp.com/)
-
 - 👨‍💻 All of my projects are available at [nanatengkodev.com](https://kwame-oteng-darko.netlify.app)
 
 - 💬 Ask me about **Html, CSS, Javascript, GIT, TailwindCSS**
-
-- 📫 How to reach me **lee.n.mackenzie@gmail.com**
 
 - ⚡ Fun fact **I love photography and designing T-shirts and other apparels.**
 
